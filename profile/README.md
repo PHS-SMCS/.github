@@ -4,7 +4,7 @@
 ### Science, Math, and Computer Science
 
 
-[Blimp](#-blimp) · [Gokart](#-gokart) · [LunaSim](#-lunasim) · [Sky](#-sky)
+[Blimp](#-falcon-core-blimp-project) · [Gokart](#-smcskart) · [LunaSim](#-lunasim) · [Sky](#-sky)
 
 </div>
 
@@ -40,7 +40,7 @@ A fully remote-controlled electric vehicle, with a custom touchscreen dashboard,
 
 <br>
 
-## 🌙 LunaSim
+## LunaSim
 
 System Dynamics Software officially recognized by the System Dynamics Society.
 
@@ -51,7 +51,7 @@ System Dynamics Software officially recognized by the System Dynamics Society.
 
 <br>
 
-## 🌌 Sky
+## Sky
 
 Artificial satellite orbiting planet Falconia, once capable of real-time visible light mapping of the exoplanet's surface...
 
