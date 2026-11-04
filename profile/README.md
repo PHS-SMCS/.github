@@ -1,7 +1,7 @@
 <div align="center">
 
 # Poolesville High School
-### Science, Math, and Computer Science
+### Science, Math, and Computer Science Program
 
 
 [Blimp](#-falcon-core-blimp-project) · [Gokart](#-smcskart) · [LunaSim](#-lunasim) · [Sky](#-sky)
@@ -18,7 +18,7 @@ Please move any repos related to these projects here! Owners will handle read/wr
 
 <div align="center">
 
-## Falcon-Core (Blimp Project)
+## [Falcon-Core (Blimp Project)](https://github.com/PHS-SMCS/falcon-core)
 
 Generational improvement of the autonomous blimp project with improved sensors, power management, integration, and efficiency.
 
@@ -29,7 +29,7 @@ Generational improvement of the autonomous blimp project with improved sensors, 
 
 <br>
 
-##  SMCSKart
+## [SMCSKart](https://github.com/PHS-SMCS/gokart-dash)
 
 A fully remote-controlled electric vehicle, with a custom touchscreen dashboard, liquid-cooled drivetrain, and drive-by-wire steering.
 
@@ -40,7 +40,7 @@ A fully remote-controlled electric vehicle, with a custom touchscreen dashboard,
 
 <br>
 
-## LunaSim
+## [LunaSim](https://github.com/PHS-SMCS/LunaSim)
 
 System Dynamics Software officially recognized by the System Dynamics Society.
 
@@ -51,7 +51,7 @@ System Dynamics Software officially recognized by the System Dynamics Society.
 
 <br>
 
-## Sky
+## [Sky](https://github.com/PHS-SMCS/smcs-pi-in-the-sky)
 
 Artificial satellite orbiting planet Falconia, once capable of real-time visible light mapping of the exoplanet's surface...
 
